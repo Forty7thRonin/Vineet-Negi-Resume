@@ -1,0 +1,118 @@
+.Overview{
+  background-color: rgb(110, 6, 6);
+  opacity: 0.9;
+  text-align: center;
+  color: white;
+  padding-bottom: 5px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+.Skills{
+  background-color: rgb(110, 6, 6);
+  opacity: 0.9;
+  text-align: center;
+  color: white;
+  padding-top: 4px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+.Education{
+  background-color: rgb(110, 6, 6);
+  opacity: 0.9;
+  text-align: center;
+  color: white;
+  padding-top: 4px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+.Experience{
+  background-color: rgb(110, 6, 6);
+  opacity: 0.9;
+  text-align: center;
+  color: white;
+  padding-top: 4px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+.Hobbies{
+  background-color: rgb(110, 6, 6);
+  opacity: 0.9;
+  text-align: center;
+  color: white;
+  padding-top: 4px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+.Languages{
+  background-color: rgb(110, 6, 6);
+  opacity: 0.9;
+  text-align: center;
+  color: white;
+  padding-top: 4px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+.Other{
+  background-color: rgb(110, 6, 6);
+  opacity: 0.9;
+  text-align: center;
+  color: white;
+  padding-top: 4px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+.myUL{
+  display: inline-block;
+  text-align: left;
+}
+a{
+  color: white;
+}
+footer{
+  background-color: rgb(110, 6, 6);
+  opacity: 0.9;
+  text-align: center;
+  color: white;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+hr{
+  margin: 0;
+  color: black;
+  border: 1px solid rgb(110, 6, 6);
+  border-radius: 10px;
+}
+.Contact{
+  background-color: rgb(110, 6, 6);
+  opacity: 0.9;
+  text-align: center;
+  color: white;
+  padding-top: 4px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+.pic{
+  border-radius: 50px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+}
+.Resume{
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 13px;  
+}
+.Contact-body{
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 13px;  
+}
